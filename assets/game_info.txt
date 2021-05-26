@@ -1,0 +1,17 @@
+Play = assets/buttons/play_off.png, assets/buttons/play_hover.png, assets/buttons/play_on.png, 700, 400, 470, 156
+Quit = assets/buttons/exit_off.png, assets/buttons/exit_hover.png, assets/buttons/exit_on.png, 700, 700, 470, 156
+Score = assets/buttons/score_off.png, assets/buttons/score_hover.png, assets/buttons/score_on.png, 1300, 50, 470, 156
+How = assets/buttons/how_off.png, assets/buttons/how_hover.png, assets/buttons/how_on.png, 700, 550, 470, 156
+Back = assets/buttons/back_off.png, assets/buttons/back_hover.png, assets/buttons/back_on.png, 25, 25, 110, 110
+Attack_Tower = assets/fire_tower_off.png, assets/fire_tower_on.png, assets/fire_tower_on.png, 32, 880, 60, 60
+Money_Tower = assets/elec_tower_off.png, assets/elec_tower_on.png,assets/elec_tower_on.png, 168, 880, 60, 60
+Heal_Tower = assets/glue_tower_off.png, assets/glue_tower_on.png,assets/glue_tower_on.png, 444, 880, 60, 60
+Slow_Tower = assets/ice_tower_off.png, assets/ice_tower_on.png, assets/ice_tower_on.png, 306, 880, 60, 60
+Replay = assets/buttons/replay_off.png, assets/buttons/replay_hover.png, assets/buttons/replay_on.png, 700, 550, 470, 156
+Menu = assets/buttons/menu_off.png, assets/buttons/menu_on.png, assets/buttons/menu_on.png, 28, 781, 98, 49
+Game_Over = assets/buttons/game_over.png, assets/buttons/game_over.png, assets/buttons/game_over.png, 500, 200, 900, 300
+Upgrade_Power = assets/buttons/upgrade_off.png, assets/buttons/upgrade_on.png, assets/buttons/upgrade_on.png, 620, 910, 118, 52
+Upgrade_Speed = assets/buttons/upgrade_off.png, assets/buttons/upgrade_on.png, assets/buttons/upgrade_on.png, 950, 910, 118, 52
+Upgrade_Radius = assets/buttons/upgrade_off.png, assets/buttons/upgrade_on.png, assets/buttons/upgrade_on.png, 1270, 910, 118, 52
+Close_Menu = assets/buttons/close_off.png, assets/buttons/close_on.png, assets/buttons/close_on.png, 1750, 800, 60, 60
+Remove_Tower = assets/buttons/remove_off.png, assets/buttons/remove_on.png, assets/buttons/remove_on.png, 1570, 900, 118, 71
