@@ -8,6 +8,7 @@ Le jeu est un tower defense donc son but est de défendre sa base et lorsque vou
 Plus vous allez loin dans le jeu, plus le jeu devient compliquer, les ennemis sont plus nombreux et ils ont de plus en plus de points vie, mais vous gagnez plus d'argent pour acheter ou améliorer les tour. Vous avez aussi la possibilité de vendre vos tours.
 
 Avant de lancer le jeu, vous devez clone le repository: `git@github.com:TrystanLescoat/Defender.git`
+
 Et installez la CSFML: `sudo apt-get install libcsfml-dev libcsfml-doc`
 
 Vous devez ensuite faire un "make" dans le terminal. Vous pouvez ensuite lancer le jeu en faisant ./my_defender nom_de_ma_map
